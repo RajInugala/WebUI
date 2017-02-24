@@ -1,0 +1,10 @@
+node_modules
+typings
+app/**/*.js
+app/**/*.js.map
+npm-debug.log*
+main.js*
+.DS_store
+.idea
+.suo
+applicationhost.config
